@@ -1,8 +1,7 @@
 Package.describe({
   "summary": "Clustering solution for Meteor with load balancing and service discovery.",
   "version": "1.6.9",
-  "git": "https://github.com/meteorhacks/cluster.git",
-  "name": "meteorhacks:cluster"
+  "name": "meteorhacks:clusterinternal"
 });
 
 Npm.depends({
